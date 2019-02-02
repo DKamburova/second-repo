@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+111111
 Bravo;
 ssss
-=======
 HI;
 new change
 
