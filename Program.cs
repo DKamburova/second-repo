@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Bravo;
 ssss
+=======
+HI;
+new change
+
+>>>>>>> 8544de79276f0af444e8bc9a46ed65ea9e741c4e
 using System;
 using System.Collections.Generic;
 using System.Linq;
